@@ -1,3 +1,3 @@
 # proyecto_sinatra
 
-La aplicacion comienza desde el controlador
+Sinatra application to keep track of your tasks.
